@@ -24,7 +24,7 @@ SECRET_KEY = '9$pl6_%)c*h(xpm(_zz4)dwki_5)^*tra^v=xzal371!@0&9su'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['7289c914c952.ngrok.io', 'localhost']
+ALLOWED_HOSTS = ['image-uploader-backend.herokuapp.com', 'localhost']
 
 CORS_ALLOW_ALL_ORIGINS = True
 
